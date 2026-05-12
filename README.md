@@ -32,60 +32,65 @@
 
 ## `> whoami`
 
-```shell
-NAME        ::  Anurup Kumar
-HANDLE      ::  anurupkumar18
-ROLE        ::  Co-Founder & AI Engineer | Agents | Retrieval Systems
-NODE        ::  University of Utah — B.S. Computer Science, Dec 2026
-LOCATION    ::  Salt Lake City, UT
-STATUS      ::  Accepting connections | Open to AI Engineer roles
-CONTACT     ::  81anurup@gmail.com | 801-792-3762
-PORTFOLIO   ::  anurupkumar.vercel.app
+<div>
 
-CURRENT DIRECTIVE:
-  "Build local-first AI memory and agent workflows that turn context into action"
+<strong>NAME</strong> :: Anurup Kumar  
+<strong>HANDLE</strong> :: anurupkumar18  
+<strong>ROLE</strong> :: Co-Founder & AI Engineer | Agents | Retrieval Systems  
+<strong>NODE</strong> :: University of Utah — B.S. Computer Science, Dec 2026  
+<strong>LOCATION</strong> :: Salt Lake City, UT  
+<strong>STATUS</strong> :: Accepting connections | Open to AI Engineer roles  
+<strong>CONTACT</strong> :: 81anurup@gmail.com | 801-792-3762  
+<strong>PORTFOLIO</strong> :: anurupkumar.vercel.app  
+<strong>LINKEDIN</strong> :: linkedin.com/in/anurupkumar  
 
-CAPABILITIES:
-  [✓] Local-first AI memory systems for agents and LLMs
-  [✓] RAG, semantic retrieval, hybrid search, ranking, and evaluation
-  [✓] On-device OCR, embeddings, inference, and privacy-preserving ingestion
-  [✓] Multi-agent incident response with rollback-safe automation
-  [✓] Semantic recommendation systems with geo and eligibility constraints
-  [✓] Full-stack AI products from prototype to deployed systems
+<br/>
 
-CHOICE:
-  red_pill()    # always
-```
+<strong>CURRENT DIRECTIVE</strong>
+
+> Build local-first AI memory and agent workflows that turn context into action.
+
+<strong>CAPABILITIES</strong>
+
+- `[✓]` Local-first AI memory systems for agents and LLMs
+- `[✓]` RAG, semantic retrieval, hybrid search, ranking, and evaluation
+- `[✓]` On-device OCR, embeddings, inference, and privacy-preserving ingestion
+- `[✓]` Multi-agent incident response with rollback-safe automation
+- `[✓]` Semantic recommendation systems with geo and eligibility constraints
+- `[✓]` Full-stack AI products from prototype to deployed systems
+
+<strong>CHOICE</strong> :: `red_pill()` always
+
+</div>
 
 ---
 
 ## `> selected_projects`
 
-```text
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  PROJECT_01 :: FNDR                                                        ║
-║  CLASSIFICATION : STARTUP · DEC 2025 → PRESENT                             ║
-║  STACK          : Rust · Tauri · React · Apple Vision · LanceDB · MCP       ║
-║  STATUS         : ████████████████████████████ BUILDING                    ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║  FNDR — Local-First AI Memory Startup for Agents and LLMs                  ║
-║                                                                              ║
-║  Co-Founder & AI Engineer building a privacy-preserving desktop memory      ║
-║  system that lets AI agents retrieve historical user context locally.        ║
-║                                                                              ║
-║  PIPELINE:                                                                  ║
-║    [ CAPTURE ] ScreenCaptureKit + Rust  → adaptive desktop sampling         ║
-║    [ OCR     ] Apple Vision OCR         → confidence-filtered evidence      ║
-║    [ EMBED   ] 1024-dim vectors         → searchable semantic memories      ║
-║    [ SEARCH  ] LanceDB hybrid retrieval → vector + keyword recall           ║
-║    [ AGENTS  ] MCP tools                → Claude, OpenClaw, local agents    ║
-║                                                                              ║
-║  [✓] Local-first architecture with on-device inference                      ║
-║  [✓] No cloud storage of screenshots or OCR data                            ║
-║  [✓] Hybrid retrieval for long-horizon user memory                          ║
-║  [✓] MCP-compatible authenticated agent interface                           ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+### `PROJECT_01 :: FNDR`
+
+**CLASSIFICATION** :: STARTUP · DEC 2025 → PRESENT  
+**STACK** :: Rust · Tauri · React · Apple Vision · LanceDB · MCP  
+**STATUS** :: BUILDING
+
+**FNDR — Local-First AI Memory Startup for Agents and LLMs**
+
+Co-Founder & AI Engineer building a privacy-preserving desktop memory system that lets AI agents retrieve historical user context locally.
+
+**PIPELINE**
+
+- `[CAPTURE]` ScreenCaptureKit + Rust → adaptive desktop sampling
+- `[OCR]` Apple Vision OCR → confidence-filtered evidence
+- `[EMBED]` 1024-dimensional vectors → searchable semantic memories
+- `[SEARCH]` LanceDB hybrid retrieval → vector + keyword recall
+- `[AGENTS]` MCP tools → Claude, OpenClaw, local agents
+
+**SYSTEM NOTES**
+
+- `[✓]` Local-first architecture with on-device inference
+- `[✓]` No cloud storage of screenshots or OCR data
+- `[✓]` Hybrid retrieval for long-horizon user memory
+- `[✓]` MCP-compatible authenticated agent interface
 
 <div align="center">
 
@@ -93,54 +98,56 @@ CHOICE:
 ![Tauri](https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri&logoColor=00ff41)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00ff41)
 ![Apple Vision](https://img.shields.io/badge/Apple_Vision-000000?style=for-the-badge&logo=apple&logoColor=00ff41)
-![LanceDB](https://img.shields.io/badge/LanceDB-000000?style=for-the-badge&logoColor=00ff41)
+![LanceDB](https://img.shields.io/badge/LanceDB-000000?style=for-the-badge&logo=lancedb&logoColor=00ff41)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=00ff41)
 
 </div>
 
-```text
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  PROJECT_02 :: MIN-0                                                       ║
-║  CLASSIFICATION : HACKATHON WINNER · JAN 2026                              ║
-║  STACK          : Python · FastAPI · Pinecone · OpenTelemetry               ║
-║  STATUS         : ████████████████████████████ LIVE                        ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║  Autonomous incident response platform ingesting Datadog, Prometheus,       ║
-║  and OpenTelemetry signals to classify incidents, retrieve runbook context, ║
-║  and generate rollback-safe remediation plans.                              ║
-║                                                                              ║
-║  [✓] Multi-agent incident triage and prioritization                         ║
-║  [✓] Pinecone retrieval over runbooks, logs, and incident archives          ║
-║  [✓] Safety gates, escalation paths, and restricted action hierarchy        ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+---
+
+### `PROJECT_02 :: MIN-0`
+
+**CLASSIFICATION** :: HACKATHON WINNER · JAN 2026  
+**STACK** :: Python · FastAPI · Pinecone · OpenTelemetry  
+**STATUS** :: LIVE
+
+**Min-0 — Autonomous Incident Response Platform**
+
+Autonomous incident response platform ingesting Datadog, Prometheus, and OpenTelemetry signals to classify incidents, retrieve runbook context, and generate rollback-safe remediation plans.
+
+**SYSTEM NOTES**
+
+- `[✓]` Multi-agent incident triage and prioritization
+- `[✓]` Pinecone retrieval over runbooks, logs, and incident archives
+- `[✓]` Safety gates, escalation paths, and restricted action hierarchy
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00ff41)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=00ff41)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=00ff41)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=00ff41)
 
 </div>
 
-```text
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  PROJECT_03 :: STARTUP COMPASS                                             ║
-║  CLASSIFICATION : UTAH GOEO BUILD · MAY 2026                               ║
-║  STACK          : Next.js · TypeScript · Gemini · Vercel                    ║
-║  STATUS         : ████████████████████████████ DEPLOYED                    ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║  Semantic founder resource recommendation system helping Utah founders      ║
-║  discover grants, accelerators, government programs, and ecosystem support  ║
-║  through embeddings, county eligibility filters, and ranked resource fit.    ║
-║                                                                              ║
-║  [✓] Gemini founder-profile embeddings                                      ║
-║  [✓] Cosine similarity over precomputed resource vectors                    ║
-║  [✓] County, sector, goal, and eligibility-aware ranking                    ║
-║  [✓] Interactive startup ecosystem map with clustering and filters          ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+---
+
+### `PROJECT_03 :: STARTUP COMPASS`
+
+**CLASSIFICATION** :: UTAH GOEO BUILD · MAY 2026  
+**STACK** :: Next.js · TypeScript · Gemini · Vercel  
+**STATUS** :: DEPLOYED
+
+**Startup Compass — Semantic Founder Resource Recommendation System**
+
+Semantic founder resource recommendation system helping Utah founders discover grants, accelerators, government programs, and ecosystem support through embeddings, county eligibility filters, and ranked resource fit.
+
+**SYSTEM NOTES**
+
+- `[✓]` Gemini founder-profile embeddings
+- `[✓]` Cosine similarity over precomputed resource vectors
+- `[✓]` County, sector, goal, and eligibility-aware ranking
+- `[✓]` Interactive startup ecosystem map with clustering and filters
 
 <div align="center">
 
@@ -152,22 +159,23 @@ CHOICE:
 
 </div>
 
-```text
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  PROJECT_04 :: EL CAMINO                                                   ║
-║  CLASSIFICATION : AI OPERATIONS BUILD · MAY 2026                           ║
-║  STACK          : Python · SQLite · Groq                                    ║
-║  STATUS         : ████████████████████████████ DEMO                        ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║  AI-assisted food truck operating system covering order workflows,          ║
-║  inventory, kitchen timing, profitability analysis, purchasing support,      ║
-║  and natural-language owner assistance.                                     ║
-║                                                                              ║
-║  [✓] Deterministic kitchen timing and inventory deduction                   ║
-║  [✓] LLM usage constrained to interaction and workflow assistance           ║
-║  [✓] Sales, revenue, inventory, purchasing, and profitability views         ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+---
+
+### `PROJECT_04 :: EL CAMINO`
+
+**CLASSIFICATION** :: AI OPERATIONS BUILD · MAY 2026  
+**STACK** :: Python · SQLite · Groq  
+**STATUS** :: DEMO
+
+**El Camino — AI-Assisted Food Truck Operating System**
+
+AI-assisted food truck operating system covering order workflows, inventory, kitchen timing, profitability analysis, purchasing support, and natural-language owner assistance.
+
+**SYSTEM NOTES**
+
+- `[✓]` Deterministic kitchen timing and inventory deduction
+- `[✓]` LLM usage constrained to interaction and workflow assistance
+- `[✓]` Sales, revenue, inventory, purchasing, and profitability views
 
 <div align="center">
 
@@ -178,22 +186,23 @@ CHOICE:
 
 </div>
 
-```text
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  PROJECT_05 :: OMNI                                                        ║
-║  CLASSIFICATION : AI AGENT PLATFORM · MAR 2026                             ║
-║  STACK          : TypeScript · Node.js · Firebase · MCP                     ║
-║  STATUS         : ████████████████████████████ ONLINE                      ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║  Multi-service AI agent platform integrating Gmail, Calendar, Drive, Slack, ║
-║  GitHub, and MCP-compatible services through tool-based orchestration,       ║
-║  persistent session state, and WebSocket execution streaming.                ║
-║                                                                              ║
-║  [✓] Cross-service tool orchestration                                       ║
-║  [✓] Live tool-call streaming over WebSockets                               ║
-║  [✓] Persistent multi-step agent session state                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+---
+
+### `PROJECT_05 :: OMNI`
+
+**CLASSIFICATION** :: AI AGENT PLATFORM · MAR 2026  
+**STACK** :: TypeScript · Node.js · Firebase · MCP  
+**STATUS** :: ONLINE
+
+**Omni — Multi-Service AI Agent Platform**
+
+Multi-service AI agent platform integrating Gmail, Calendar, Drive, Slack, GitHub, and MCP-compatible services through tool-based orchestration, persistent session state, and WebSocket execution streaming.
+
+**SYSTEM NOTES**
+
+- `[✓]` Cross-service tool orchestration
+- `[✓]` Live tool-call streaming over WebSockets
+- `[✓]` Persistent multi-step agent session state
 
 <div align="center">
 
@@ -244,8 +253,8 @@ CHOICE:
 // DATABASES_CLOUD_FRAMEWORKS
 ```
 
-![LanceDB](https://img.shields.io/badge/LanceDB-000000?style=for-the-badge&logoColor=00ff41&labelColor=000000)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=00ff41&labelColor=000000)
+![LanceDB](https://img.shields.io/badge/LanceDB-000000?style=for-the-badge&logo=lancedb&logoColor=00ff41&labelColor=000000)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=00ff41&labelColor=000000)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ff41&labelColor=000000)
 ![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=00ff41&labelColor=000000)
 ![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=00ff41&labelColor=000000)
@@ -263,18 +272,27 @@ CHOICE:
 
 ## `> operational_capabilities`
 
-```text
-┌──────────────────────┬──────────────────────┬──────────────────────┐
-│ LOCAL-FIRST AI       │ SEMANTIC RETRIEVAL   │ AGENT WORKFLOWS      │
-│ private by default   │ memory over keywords │ tools that execute   │
-├──────────────────────┼──────────────────────┼──────────────────────┤
-│ HYBRID SEARCH        │ SAFETY GATES         │ DEPLOYED PRODUCTS    │
-│ vector + keyword     │ rollback-aware ops   │ demo to production   │
-├──────────────────────┼──────────────────────┼──────────────────────┤
-│ FOUNDER SYSTEMS      │ OPS AUTOMATION       │ MCP ORCHESTRATION    │
-│ resources + maps     │ food + infra loops   │ one layer, many APIs │
-└──────────────────────┴──────────────────────┴──────────────────────┘
-```
+<div align="center">
+
+<table>
+<tr>
+<td><strong>LOCAL-FIRST AI</strong><br/>Private by default</td>
+<td><strong>SEMANTIC RETRIEVAL</strong><br/>Memory over keywords</td>
+<td><strong>AGENT WORKFLOWS</strong><br/>Tools that execute</td>
+</tr>
+<tr>
+<td><strong>HYBRID SEARCH</strong><br/>Vector + keyword</td>
+<td><strong>SAFETY GATES</strong><br/>Rollback-aware ops</td>
+<td><strong>DEPLOYED PRODUCTS</strong><br/>Demo to production</td>
+</tr>
+<tr>
+<td><strong>FOUNDER SYSTEMS</strong><br/>Resources + maps</td>
+<td><strong>OPS AUTOMATION</strong><br/>Food + infra loops</td>
+<td><strong>MCP ORCHESTRATION</strong><br/>One layer, many APIs</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -284,21 +302,16 @@ CHOICE:
 
 <img width="100%" height="170" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
 
-```text
-╔════════════════════════════════════════════════════════════════════════╗
-║                                                                        ║
-║             OPEN TO AI ENGINEER ROLES & INTERNSHIPS                   ║
-║                                                                        ║
-║   ✉  81anurup@gmail.com     |     ☎  801-792-3762                     ║
-║   >  anurupkumar.vercel.app                                           ║
-║   >  linkedin.com/in/anurupkumar                                      ║
-║                                                                        ║
-║        "There is no spoon. There is only the agent."                  ║
-║                                                                        ║
-║                         WAKE UP, ANURUP.                              ║
-║                                                                        ║
-╚════════════════════════════════════════════════════════════════════════╝
-```
+<br/>
+
+<strong>OPEN TO AI ENGINEER ROLES & INTERNSHIPS</strong>
+
+<br/><br/>
+
+`81anurup@gmail.com` · `801-792-3762`  
+`anurupkumar.vercel.app` · `linkedin.com/in/anurupkumar`
+
+<br/><br/>
 
 [![Ping Me](https://img.shields.io/badge/%3E__PING_ME-000000?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=001400&color=000000)](mailto:81anurup@gmail.com)
 [![Enter The Matrix](https://img.shields.io/badge/%3E__ENTER_THE_MATRIX-000000?style=for-the-badge&logo=vercel&logoColor=00ff41&labelColor=001400&color=000000)](https://anurupkumar.vercel.app/)
@@ -307,11 +320,9 @@ CHOICE:
 
 <br/><br/>
 
-```text
-0101  0010  0101  0110  0010  0000  0000  0001
-────  ────  ────  ────  ────  ────  ────  ────
-R     A     G     :     :     A     G     E N T
-```
+`RAG :: AGENT :: MEMORY :: RETRIEVAL`
+
+<br/><br/>
 
 <img width="100%" height="80" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,25:008f11,55:003b00,100:000000&height=80&section=footer"/>
 
